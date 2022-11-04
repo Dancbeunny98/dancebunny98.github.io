@@ -1,0 +1,3 @@
+Attention!
+This code is copyrighted by Dancebunny98
+COPYING AND USE OF THIS CODE OR PARTS OF IT IS NOT PERMITTED WITHOUT PRIOR CONSENT.
